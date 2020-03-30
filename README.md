@@ -67,4 +67,4 @@ Out[39]:
 
 There are relation embeddings of three different sizes: 10, 100 and 200 dimensions. The smaller the dimensionality, the more abstract the semantic similarities are. The examples in this README are from the 100d space.
 
-[https://drive.google.com/drive/folders/1VblKWwdZqB5Qot6M5hH8rq_dFgA8VlMy?usp=sharing!](DOWNLOAD HERE)
+[DOWNLOAD HERE](https://drive.google.com/drive/folders/1VblKWwdZqB5Qot6M5hH8rq_dFgA8VlMy?usp=sharing!)
