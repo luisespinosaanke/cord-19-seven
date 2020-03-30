@@ -6,9 +6,9 @@ This repository contains pre-trained relation embeddings (nearly 100k) trained u
 
 SeVeN is a dedicated vector space for relational knowledge. In practice, this means a word embedding space where each vector corresponds to a _pair of words_. These pairs are pre-selected based on PPMI scores.
 
-SeVeN paper: Espinosa-Anke, L. & Schockaert, S. (2018). SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors. In Proceedings of the 27th International Conference on Computational Linguistics (pp. 2653-2665). https://www.aclweb.org/anthology/C18-1225/
-SeVeN blog post: https://medium.com/voice-tech-podcast/seven-semantic-vector-networks-9b0329383a78
-SeVeN code: https://bitbucket.org/luisespinosa/seven
+- SeVeN paper: Espinosa-Anke, L. & Schockaert, S. (2018). SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors. In Proceedings of the 27th International Conference on Computational Linguistics (pp. 2653-2665). https://www.aclweb.org/anthology/C18-1225/
+- SeVeN blog post: https://medium.com/voice-tech-podcast/seven-semantic-vector-networks-9b0329383a78
+- SeVeN code: https://bitbucket.org/luisespinosa/seven
 
 ### Querying the CORD-19-SeVeN space
 
